@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(155, 152, 152);
+
+}
+.mypicture
+     {
+         display: flex;
+         justify-content: space-between;
+}
+h1{
+    color: blue;
+    
+}
